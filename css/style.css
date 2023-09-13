@@ -10,18 +10,3 @@ header{
    background-size: cover;
    background-position: center;
 }
-
-body{
-   font-family: 'Nunito', sans-serif;
-   color: #fff;
-   line-height: 1.5;
-}
-
-.wrapper{
-   max-width:1200px;
-   margin: 0 auto;
-   padding: 1.5em 0px 1.5em 0px;
-   background-color: #000;
-   color: #dec9e9;
-   
-}
