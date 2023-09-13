@@ -1,0 +1,34 @@
+*{
+   box-sizing: border-box;
+}
+
+header{
+   width: 100%;
+   padding: 3em 0px 3em 0px;
+   background-image: url("../images/ice-cream-cones");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+body{
+   font-family: 'Nunito' , sans-serif;
+   /* color: #fff; */
+   line-height: 1.5;
+}
+
+.wrapper{
+   max-width: 1200px;
+   margin: 0 auto;
+
+}
+
+h1, h2, h4 {
+   font-family: 'Wix Madefor Display', sans-serif;
+}
+
+h1 {
+   font-family: 'Wix Madefor Display', sans-serif;
+   font-weight:400;
+   font-size:5rem;
+}
