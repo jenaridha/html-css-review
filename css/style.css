@@ -12,6 +12,6 @@ header{
 }
 body{
    font-family: 'Nunito', sans-serif;
-   color: #fff;
+   /* color: #fff; */
    line-height: 1.5;
 }
